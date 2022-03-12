@@ -1,26 +1,84 @@
-  <h1 align="center">Hi 👋, I'm Baby!</h1>
-<h3 align="center">I am a person who is venturing into the internet and learning more and more about technology.</h3>
+### Olá, Eu sou o Combo! 💻
 
-- 🔭 I’m currently working on [RelogBots](https://dsc.gg/relogbots)
+[![Suricato](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/srcq9ffR24)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vrp.combo/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/combofnt)
 
-- 🌱 I’m currently learning **Lua, JS, CSS, HTML**
+## Status:
 
-- 👯 I’m looking to collaborate on [SuricatoX's Corporation](https://discord.gg/tqHWCEZ)
+<div align="center">
+  <a href="https://github.com/combo0001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=combo0001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=combo0001&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+## Tecnologias:
+  
+<br />
 
-- 🤝 I’m looking for help with **Athena's Roleplay**
+## Ferramentas e Frameworks:
 
-- 💬 Ask me about **Optimization in FiveM**
+<table style="overflow:hidden">
+  <tr>
+    <td align="center" width="96">
+      <a href="#javascript">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#nodejs">
+        <img src="https://thidu.dev/images/Nodejs.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#lua">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48" height="48" alt="Lua" />
+      </a>
+      <br>Lua
+    </td>
+    <td align="center" width="96">
+      <a href="#html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#css">
+        <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **atenaunderbelieveble@outlook.com.br**
+<br />
 
-- ⚡ Fun fact **I think i am funny :)**
+![Snake animation](https://github.com/combo0001/combo0001/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/baby.semxoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baby.semxoro" height="30" width="40" /></a>
-</p>
+name: Generate Datas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.discordapp.com/attachments/917941670073475072/952341660782690364/c-logo-icon-28402.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
 
-![Snake animation](https://github.com/diogonakasone)
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: combo0001
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
