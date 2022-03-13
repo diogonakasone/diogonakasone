@@ -15,22 +15,12 @@
   
 <br />
 
-<table style="overflow:hidden">
-  <tr>
-    <td align="center" width="96">
-      <a href="#javascript">
-    </td>
     <td align="center" width="96">
       <a href="#C#">
         <img src="https://cdn.discordapp.com/attachments/917941670073475072/952664781028999178/c-logo-icon-28402.png" width="48" height="48" alt="Lua" />
       </a>
       <br>Lua
     </td>
-    <td align="center" width="96">
-      <a href="#css">
-        <img src="" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
     </td>
   </tr>
 </table>
