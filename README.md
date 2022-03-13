@@ -31,19 +31,19 @@
     </td>
     <td align="center" width="96">
       <a href="#lua">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48" height="48" alt="Lua" />
+        <img src="https://cdn.discordapp.com/attachments/917941670073475072/952664781028999178/c-logo-icon-28402.png" width="48" height="48" alt="Lua" />
       </a>
       <br>Lua
     </td>
     <td align="center" width="96">
       <a href="#html">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML" />
+        <img src="" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#css">
-        <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="48" height="48" alt="CSS" />
+        <img src="" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
