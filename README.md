@@ -14,13 +14,37 @@
 ## Tecnologias:
   
 <br />
-
+<table style="overflow:hidden">
+  <tr>
     <td align="center" width="96">
-      <a href="#C#">
-        <img src="https://cdn.discordapp.com/attachments/917941670073475072/952664781028999178/c-logo-icon-28402.png" width="48" height="48" alt="Lua" />
+      <a href="#javascript">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#nodejs">
+        <img src="https://thidu.dev/images/Nodejs.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#lua">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48" height="48" alt="Lua" />
       </a>
       <br>Lua
     </td>
+    <td align="center" width="96">
+      <a href="#html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#css">
+        <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
     </td>
   </tr>
 </table>
