@@ -15,8 +15,6 @@
   
 <br />
 
-## Ferramentas e Frameworks:
-
 <table style="overflow:hidden">
   <tr>
     <td align="center" width="96">
