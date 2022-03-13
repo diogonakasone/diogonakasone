@@ -20,7 +20,7 @@
       <a href="#lua">
         <img src="https://cdn.discordapp.com/attachments/917941670073475072/952664781028999178/c-logo-icon-28402.png" width="48" height="48" alt="C#" />
       </a>
-      <br>Lua
+      <br>C#
     </td>
       </a>
       <br>
