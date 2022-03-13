@@ -23,12 +23,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#nodejs">
-        <img src="https://thidu.dev/images/Nodejs.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
       <a href="#lua">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48" height="48" alt="Lua" />
       </a>
