@@ -34,10 +34,6 @@
       </a>
       <br>Lua
     </td>
-/>
-      </a>
-      <br>HTML
-    </td>
       </a>
       <br>CSS
     </td>
