@@ -19,18 +19,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#javascript">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript1" />
-      </a>
-      <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#nodejs">
-        <img src="https://thidu.dev/images/Nodejs.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#lua">
+      <a href="#C#">
         <img src="https://cdn.discordapp.com/attachments/917941670073475072/952664781028999178/c-logo-icon-28402.png" width="48" height="48" alt="Lua" />
       </a>
       <br>Lua
