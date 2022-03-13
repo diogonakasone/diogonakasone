@@ -36,12 +36,6 @@
       <br>Lua
     </td>
     <td align="center" width="96">
-      <a href="#html">
-        <img src="" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
       <a href="#css">
         <img src="" width="48" height="48" alt="CSS" />
       </a>
